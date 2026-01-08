@@ -11,6 +11,8 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.latihanapi.databinding.ActivityMainBinding
 import kotlinx.coroutines.launch
+import com.example.latihanapi.repository.CatatanAdapter
+
 
 class MainActivity : AppCompatActivity() {
 
